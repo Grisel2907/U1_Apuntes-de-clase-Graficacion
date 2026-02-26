@@ -6,18 +6,29 @@
 
 La **graficación por computadora** es la disciplina que estudia la creación, manipulación y representación de imágenes mediante sistemas computacionales.
 
-### Línea del tiempo
 
-| Década | Hito |
-|--------|------|
-| **1950s** | Primeras pantallas vectoriales en computadoras militares (SAGE). Ivan Sutherland crea Sketchpad (1963), el primer programa de dibujo interactivo. |
-| **1960s** | Nace el concepto de GUI. Se desarrollan los primeros algoritmos de rasterización. |
-| **1970s** | Aparece el modelo de sombreado de Gouraud y Phong. Xerox PARC desarrolla interfaces gráficas. |
-| **1980s** | Surge el renderizado por rayos (ray tracing). Aparece el primer Macintosh con GUI (1984). |
-| **1990s** | Explosión del 3D: OpenGL (1992), DirectX (1995), primeras películas CGI (*Toy Story*, 1995). |
-| **2000s** | GPU programables, shaders en tiempo real, videojuegos en alta definición. |
-| **2010s** | Renderizado en tiempo real fotorrealista, realidad virtual (VR), inteligencia artificial en graficación. |
-| **2020s** | Ray tracing en tiempo real (NVIDIA RTX), IA generativa de imágenes, metaverso. |
+La historia de la graficación por computadora es la evolución de cómo las máquinas pasaron de imprimir números en papel a generar mundos visuales interactivos. Este desarrollo ha sido impulsado por la convergencia de avances en hardware, algoritmos matemáticos y la demanda de industrias como la defensa, el entretenimiento y el diseño.
+
+**Década de 1950 - Los Primeros Pasos**
+
+Los inicios se dieron en entornos militares y de investigación. El Proyecto Whirlwind (MIT) y el sistema de defensa SAGE fueron pioneros al utilizar pantallas de tubo de rayos catódicos (CRT) y el lápiz óptico para la interacción en tiempo real, sentando las bases de la interacción hombre-máquina.
+
+**Década de 1960 - La Fundación del Campo**
+
+El hito más importante fue Sketchpad (1963), desarrollado por Ivan Sutherland en el MIT. Este programa permitía dibujar y manipular figuras geométricas en una pantalla con un lápiz óptico, estableciendo las bases de los modernos programas de Diseño Asistido por Computadora (CAD) y los gráficos vectoriales . El término "Computer Graphics" fue acuñado poco después por William Fetter en Boeing .
+
+**Década de 1970 - La Búsqueda del Realismo**
+
+La Universidad de Utah se convirtió en el epicentro de la innovación. Allí se desarrollaron técnicas fundamentales para el modelado 3D, como los modelos de iluminación Gouraud y Phong (sombreado), el mapeo de texturas por Ed Catmull y el algoritmo del Z-buffer para gestionar la profundidad . En 1974 se celebró la primera conferencia de la ACM SIGGRAPH, que se consolidó como el foro mundial más importante de gráficos por computadora .
+
+**Década de 1980 - Democratización y Estándares**
+
+Con la llegada del ordenador personal, los gráficos llegaron a las masas. Estándares como CGA y VGA en las PC de IBM permitieron los primeros gráficos en color. Apple popularizó la Interfaz Gráfica de Usuario (GUI) con la Macintosh en 1984, haciendo las computadoras más accesibles mediante iconos y ventanas .
+
+**Década de 1990 - Fotorrealismo y las GPU**
+
+El cine y los videojuegos impulsaron el realismo. Toy Story (1995) fue el primer largometraje completamente animado por computadora, y Parque Jurásico (1993) demostró el poder de los efectos especiales digitales. Para manejar la creciente complejidad de los gráficos 3D en tiempo real, surgió la Unidad de Procesamiento Gráfico (GPU) , un hardware especializado que liberó a la CPU de esta tarea y que hoy es esencial en cualquier dispositivo .
+
 
 ---
 
